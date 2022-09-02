@@ -1,0 +1,240 @@
+Charm++> Running on MPI library: Open MPI v4.0.5, package: Open MPI spack@br012.ib.bridges2.psc.edu Distribution, ident: 4.0.5, repo rev: v4.0.5, Aug 26, 2020 (MPI standard: 3.1)
+Charm++> Level of thread support used: MPI_THREAD_FUNNELED (desired: MPI_THREAD_FUNNELED)
+Charm++> Running in SMP mode: 1 processes, 2 worker threads (PEs) + 1 comm threads per process, 2 PEs total
+Charm++> The comm. thread both sends and receives messages
+Converse/Charm++ Commit ID: v7.1.0-devel-172-ge6d5463bb
+CharmLB> Load balancer assumes all CPUs are same.
+Charm++> cpu affinity enabled. 
+Charm++> cpuaffinity PE-core map (logical indices): 0,1
+Charm++> Running on 1 hosts (2 sockets x 64 cores x 1 PUs = 128-way SMP)
+Charm++> cpu topology info is gathered in 0.003 seconds.
+CharmLB> Load balancing instrumentation for communication is off.
+LOGISTICS
+Number of PEs: 2
+Number of nodes: 1
+8.710203 second have elapsed
+870846.180264
+Time (in nanoseconds): 870846.180264 message_size: 65536 PROTOCOL: Parameter_Marshalling
+8.146229 second have elapsed
+814459.983203
+Time (in nanoseconds): 814459.983203 message_size: 65536 PROTOCOL: Message
+8.426450 second have elapsed
+842476.536593
+Time (in nanoseconds): 842476.536593 message_size: 65536 PROTOCOL: Message_w/o_allocation
+[Partition 0][Node 0] End of program
+Charm++> Running on MPI library: Open MPI v4.0.5, package: Open MPI spack@br012.ib.bridges2.psc.edu Distribution, ident: 4.0.5, repo rev: v4.0.5, Aug 26, 2020 (MPI standard: 3.1)
+Charm++> Level of thread support used: MPI_THREAD_FUNNELED (desired: MPI_THREAD_FUNNELED)
+Charm++> Running in SMP mode: 1 processes, 2 worker threads (PEs) + 1 comm threads per process, 2 PEs total
+Charm++> The comm. thread both sends and receives messages
+Converse/Charm++ Commit ID: v7.1.0-devel-172-ge6d5463bb
+CharmLB> Load balancer assumes all CPUs are same.
+Charm++> cpu affinity enabled. 
+Charm++> cpuaffinity PE-core map (logical indices): 0,1
+Charm++> Running on 1 hosts (2 sockets x 64 cores x 1 PUs = 128-way SMP)
+Charm++> cpu topology info is gathered in 0.001 seconds.
+CharmLB> Load balancing instrumentation for communication is off.
+LOGISTICS
+Number of PEs: 2
+Number of nodes: 1
+8.912522 second have elapsed
+891252.177300
+Time (in nanoseconds): 891252.177300 message_size: 65536 PROTOCOL: Parameter_Marshalling
+8.142927 second have elapsed
+814292.703600
+Time (in nanoseconds): 814292.703600 message_size: 65536 PROTOCOL: Message
+8.420000 second have elapsed
+841999.977000
+Time (in nanoseconds): 841999.977000 message_size: 65536 PROTOCOL: Message_w/o_allocation
+[Partition 0][Node 0] End of program
+Charm++> Running on MPI library: Open MPI v4.0.5, package: Open MPI spack@br012.ib.bridges2.psc.edu Distribution, ident: 4.0.5, repo rev: v4.0.5, Aug 26, 2020 (MPI standard: 3.1)
+Charm++> Level of thread support used: MPI_THREAD_FUNNELED (desired: MPI_THREAD_FUNNELED)
+Charm++> Running in SMP mode: 1 processes, 2 worker threads (PEs) + 1 comm threads per process, 2 PEs total
+Charm++> The comm. thread both sends and receives messages
+Converse/Charm++ Commit ID: v7.1.0-devel-172-ge6d5463bb
+CharmLB> Load balancer assumes all CPUs are same.
+Charm++> cpu affinity enabled. 
+Charm++> cpuaffinity PE-core map (logical indices): 0,1
+Charm++> Running on 1 hosts (2 sockets x 64 cores x 1 PUs = 128-way SMP)
+Charm++> cpu topology info is gathered in 0.001 seconds.
+CharmLB> Load balancing instrumentation for communication is off.
+LOGISTICS
+Number of PEs: 2
+Number of nodes: 1
+8.904598 second have elapsed
+890459.832400
+Time (in nanoseconds): 890459.832400 message_size: 65536 PROTOCOL: Parameter_Marshalling
+8.140754 second have elapsed
+814075.433800
+Time (in nanoseconds): 814075.433800 message_size: 65536 PROTOCOL: Message
+8.442425 second have elapsed
+844242.547600
+Time (in nanoseconds): 844242.547600 message_size: 65536 PROTOCOL: Message_w/o_allocation
+[Partition 0][Node 0] End of program
+Charm++> Running on MPI library: Open MPI v4.0.5, package: Open MPI spack@br012.ib.bridges2.psc.edu Distribution, ident: 4.0.5, repo rev: v4.0.5, Aug 26, 2020 (MPI standard: 3.1)
+Charm++> Level of thread support used: MPI_THREAD_FUNNELED (desired: MPI_THREAD_FUNNELED)
+Charm++> Running in SMP mode: 1 processes, 2 worker threads (PEs) + 1 comm threads per process, 2 PEs total
+Charm++> The comm. thread both sends and receives messages
+Converse/Charm++ Commit ID: v7.1.0-devel-172-ge6d5463bb
+CharmLB> Load balancer assumes all CPUs are same.
+Charm++> cpu affinity enabled. 
+Charm++> cpuaffinity PE-core map (logical indices): 0,1
+Charm++> Running on 1 hosts (2 sockets x 64 cores x 1 PUs = 128-way SMP)
+Charm++> cpu topology info is gathered in 0.001 seconds.
+CharmLB> Load balancing instrumentation for communication is off.
+LOGISTICS
+Number of PEs: 2
+Number of nodes: 1
+8.905800 second have elapsed
+890580.007800
+Time (in nanoseconds): 890580.007800 message_size: 65536 PROTOCOL: Parameter_Marshalling
+8.142514 second have elapsed
+814251.445100
+Time (in nanoseconds): 814251.445100 message_size: 65536 PROTOCOL: Message
+8.406631 second have elapsed
+840663.104800
+Time (in nanoseconds): 840663.104800 message_size: 65536 PROTOCOL: Message_w/o_allocation
+[Partition 0][Node 0] End of program
+Charm++> Running on MPI library: Open MPI v4.0.5, package: Open MPI spack@br012.ib.bridges2.psc.edu Distribution, ident: 4.0.5, repo rev: v4.0.5, Aug 26, 2020 (MPI standard: 3.1)
+Charm++> Level of thread support used: MPI_THREAD_FUNNELED (desired: MPI_THREAD_FUNNELED)
+Charm++> Running in SMP mode: 1 processes, 2 worker threads (PEs) + 1 comm threads per process, 2 PEs total
+Charm++> The comm. thread both sends and receives messages
+Converse/Charm++ Commit ID: v7.1.0-devel-172-ge6d5463bb
+CharmLB> Load balancer assumes all CPUs are same.
+Charm++> cpu affinity enabled. 
+Charm++> cpuaffinity PE-core map (logical indices): 0,1
+Charm++> Running on 1 hosts (2 sockets x 64 cores x 1 PUs = 128-way SMP)
+Charm++> cpu topology info is gathered in 0.001 seconds.
+CharmLB> Load balancing instrumentation for communication is off.
+LOGISTICS
+Number of PEs: 2
+Number of nodes: 1
+8.685019 second have elapsed
+868328.258348
+Time (in nanoseconds): 868328.258348 message_size: 65536 PROTOCOL: Parameter_Marshalling
+8.298741 second have elapsed
+829708.114177
+Time (in nanoseconds): 829708.114177 message_size: 65536 PROTOCOL: Message
+8.409571 second have elapsed
+840788.945511
+Time (in nanoseconds): 840788.945511 message_size: 65536 PROTOCOL: Message_w/o_allocation
+[Partition 0][Node 0] End of program
+Charm++> Running on MPI library: Open MPI v4.0.5, package: Open MPI spack@br012.ib.bridges2.psc.edu Distribution, ident: 4.0.5, repo rev: v4.0.5, Aug 26, 2020 (MPI standard: 3.1)
+Charm++> Level of thread support used: MPI_THREAD_FUNNELED (desired: MPI_THREAD_FUNNELED)
+Charm++> Running in SMP mode: 1 processes, 2 worker threads (PEs) + 1 comm threads per process, 2 PEs total
+Charm++> The comm. thread both sends and receives messages
+Converse/Charm++ Commit ID: v7.1.0-devel-172-ge6d5463bb
+CharmLB> Load balancer assumes all CPUs are same.
+Charm++> cpu affinity enabled. 
+Charm++> cpuaffinity PE-core map (logical indices): 0,1
+Charm++> Running on 1 hosts (2 sockets x 64 cores x 1 PUs = 128-way SMP)
+Charm++> cpu topology info is gathered in 0.001 seconds.
+CharmLB> Load balancing instrumentation for communication is off.
+LOGISTICS
+Number of PEs: 2
+Number of nodes: 1
+8.687495 second have elapsed
+868749.494600
+Time (in nanoseconds): 868749.494600 message_size: 65536 PROTOCOL: Parameter_Marshalling
+8.166207 second have elapsed
+816620.654200
+Time (in nanoseconds): 816620.654200 message_size: 65536 PROTOCOL: Message
+8.394451 second have elapsed
+839445.059700
+Time (in nanoseconds): 839445.059700 message_size: 65536 PROTOCOL: Message_w/o_allocation
+[Partition 0][Node 0] End of program
+Charm++> Running on MPI library: Open MPI v4.0.5, package: Open MPI spack@br012.ib.bridges2.psc.edu Distribution, ident: 4.0.5, repo rev: v4.0.5, Aug 26, 2020 (MPI standard: 3.1)
+Charm++> Level of thread support used: MPI_THREAD_FUNNELED (desired: MPI_THREAD_FUNNELED)
+Charm++> Running in SMP mode: 1 processes, 2 worker threads (PEs) + 1 comm threads per process, 2 PEs total
+Charm++> The comm. thread both sends and receives messages
+Converse/Charm++ Commit ID: v7.1.0-devel-172-ge6d5463bb
+CharmLB> Load balancer assumes all CPUs are same.
+Charm++> cpu affinity enabled. 
+Charm++> cpuaffinity PE-core map (logical indices): 0,1
+Charm++> Running on 1 hosts (2 sockets x 64 cores x 1 PUs = 128-way SMP)
+Charm++> cpu topology info is gathered in 0.001 seconds.
+CharmLB> Load balancing instrumentation for communication is off.
+LOGISTICS
+Number of PEs: 2
+Number of nodes: 1
+8.901658 second have elapsed
+890165.796700
+Time (in nanoseconds): 890165.796700 message_size: 65536 PROTOCOL: Parameter_Marshalling
+8.288463 second have elapsed
+828846.348000
+Time (in nanoseconds): 828846.348000 message_size: 65536 PROTOCOL: Message
+8.419599 second have elapsed
+841959.918400
+Time (in nanoseconds): 841959.918400 message_size: 65536 PROTOCOL: Message_w/o_allocation
+[Partition 0][Node 0] End of program
+Charm++> Running on MPI library: Open MPI v4.0.5, package: Open MPI spack@br012.ib.bridges2.psc.edu Distribution, ident: 4.0.5, repo rev: v4.0.5, Aug 26, 2020 (MPI standard: 3.1)
+Charm++> Level of thread support used: MPI_THREAD_FUNNELED (desired: MPI_THREAD_FUNNELED)
+Charm++> Running in SMP mode: 1 processes, 2 worker threads (PEs) + 1 comm threads per process, 2 PEs total
+Charm++> The comm. thread both sends and receives messages
+Converse/Charm++ Commit ID: v7.1.0-devel-172-ge6d5463bb
+CharmLB> Load balancer assumes all CPUs are same.
+Charm++> cpu affinity enabled. 
+Charm++> cpuaffinity PE-core map (logical indices): 0,1
+Charm++> Running on 1 hosts (2 sockets x 64 cores x 1 PUs = 128-way SMP)
+Charm++> cpu topology info is gathered in 0.001 seconds.
+CharmLB> Load balancing instrumentation for communication is off.
+LOGISTICS
+Number of PEs: 2
+Number of nodes: 1
+8.907987 second have elapsed
+890620.571886
+Time (in nanoseconds): 890620.571886 message_size: 65536 PROTOCOL: Parameter_Marshalling
+8.305023 second have elapsed
+830336.233853
+Time (in nanoseconds): 830336.233853 message_size: 65536 PROTOCOL: Message
+8.411827 second have elapsed
+841014.526995
+Time (in nanoseconds): 841014.526995 message_size: 65536 PROTOCOL: Message_w/o_allocation
+[Partition 0][Node 0] End of program
+Charm++> Running on MPI library: Open MPI v4.0.5, package: Open MPI spack@br012.ib.bridges2.psc.edu Distribution, ident: 4.0.5, repo rev: v4.0.5, Aug 26, 2020 (MPI standard: 3.1)
+Charm++> Level of thread support used: MPI_THREAD_FUNNELED (desired: MPI_THREAD_FUNNELED)
+Charm++> Running in SMP mode: 1 processes, 2 worker threads (PEs) + 1 comm threads per process, 2 PEs total
+Charm++> The comm. thread both sends and receives messages
+Converse/Charm++ Commit ID: v7.1.0-devel-172-ge6d5463bb
+CharmLB> Load balancer assumes all CPUs are same.
+Charm++> cpu affinity enabled. 
+Charm++> cpuaffinity PE-core map (logical indices): 0,1
+Charm++> Running on 1 hosts (2 sockets x 64 cores x 1 PUs = 128-way SMP)
+Charm++> cpu topology info is gathered in 0.022 seconds.
+CharmLB> Load balancing instrumentation for communication is off.
+LOGISTICS
+Number of PEs: 2
+Number of nodes: 1
+8.907080 second have elapsed
+890707.982400
+Time (in nanoseconds): 890707.982400 message_size: 65536 PROTOCOL: Parameter_Marshalling
+8.269551 second have elapsed
+826955.118400
+Time (in nanoseconds): 826955.118400 message_size: 65536 PROTOCOL: Message
+8.403244 second have elapsed
+840324.421200
+Time (in nanoseconds): 840324.421200 message_size: 65536 PROTOCOL: Message_w/o_allocation
+[Partition 0][Node 0] End of program
+Charm++> Running on MPI library: Open MPI v4.0.5, package: Open MPI spack@br012.ib.bridges2.psc.edu Distribution, ident: 4.0.5, repo rev: v4.0.5, Aug 26, 2020 (MPI standard: 3.1)
+Charm++> Level of thread support used: MPI_THREAD_FUNNELED (desired: MPI_THREAD_FUNNELED)
+Charm++> Running in SMP mode: 1 processes, 2 worker threads (PEs) + 1 comm threads per process, 2 PEs total
+Charm++> The comm. thread both sends and receives messages
+Converse/Charm++ Commit ID: v7.1.0-devel-172-ge6d5463bb
+CharmLB> Load balancer assumes all CPUs are same.
+Charm++> cpu affinity enabled. 
+Charm++> cpuaffinity PE-core map (logical indices): 0,1
+Charm++> Running on 1 hosts (2 sockets x 64 cores x 1 PUs = 128-way SMP)
+Charm++> cpu topology info is gathered in 0.001 seconds.
+CharmLB> Load balancing instrumentation for communication is off.
+LOGISTICS
+Number of PEs: 2
+Number of nodes: 1
+8.916885 second have elapsed
+891688.475000
+Time (in nanoseconds): 891688.475000 message_size: 65536 PROTOCOL: Parameter_Marshalling
+8.281169 second have elapsed
+828116.859000
+Time (in nanoseconds): 828116.859000 message_size: 65536 PROTOCOL: Message
+8.392642 second have elapsed
+839264.222600
+Time (in nanoseconds): 839264.222600 message_size: 65536 PROTOCOL: Message_w/o_allocation
+[Partition 0][Node 0] End of program

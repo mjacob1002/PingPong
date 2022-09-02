@@ -1,0 +1,26 @@
+mainmodule ping_pong{
+
+	mainchare Main {
+		entry Main(CkArgMsg* m);	
+		entry [reductiontarget] void done();
+	};
+	
+	message MyPointerMsg {
+		int arr[];
+		int size;
+	};
+
+	group Player {
+		entry Player(int, int);
+		entry void beginMarshallRound();
+		entry void beginMessageRound();
+		entry void beginMessageNoAllocationRound();
+		entry void receiveMarshalled(int sz, int arr[sz]);
+		entry void receiveNoAllocation(MyPointerMsg* my_message);
+		entry void receiveAllocation(MyPointerMsg* my_message);
+		entry void receiveMsg(int number);
+		
+	};
+
+
+}
